@@ -1,0 +1,5 @@
+name: NarcisseAPI
+version: '${project.version}'
+main: fr.adola.api.API
+authors: [ Adola ]
+description: Plugin by | _Neww, Skayizen, CHIFOUU
